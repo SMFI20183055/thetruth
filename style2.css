@@ -1,0 +1,171 @@
+
+body {
+	 background-image: linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.3)), url('bc.png');
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+.ff {
+    background-color: #ffffff; 
+    border: 2px solid green; 
+    border-radius: 10px;
+    text-align: center;
+    height: 400px;
+    width: 298px;
+    margin: 26px 156px 7px 470px;
+    box-shadow: 1px 1px 20px 11px #377566;
+}
+
+input[type=text] {
+  width: 200px;
+  
+  -webkit-transition: width .35s ease-in-out;
+  transition: width .35s ease-in-out;
+}
+input[type=text]:focus {
+  width: 250px;
+  height: 30px;
+}
+input[type=password] {
+  width: 200px;
+  
+  -webkit-transition: width .35s ease-in-out;
+  transition: width .35s ease-in-out;
+}
+input[type=password]:focus {
+  width: 250px;
+  height: 30px;
+}
+.f1 {
+    font-style: italic;
+    font-family: emoji;
+    color: green;
+	margin: 	-18px 2px -29px 1px;
+	
+}
+
+
+.s1{
+    box-shadow: 4px 3px 6px 6px #74e672bd;
+    font-size: 26px;
+    margin: 12px 4px -31px 6px;
+    height: 44px;
+    border: 1px;
+    width: 208px;
+    background-color: #03f770fc;
+    border-radius: 15px;
+	
+}
+.p1 {
+	margin: 12px 21px 20px 30px;
+}
+.ki {
+	font-size: 30px;
+    margin-bottom: -1px;
+}
+body {
+  font-family: 'Jameel Noori Nastaleeq';
+  src: url('http://www.fontsaddict.com/fontface/jameel-noori-nastaleeq.ttf');
+  text-align: right;
+}
+.ki {
+	font-size: 30px;
+    margin-bottom: -1px;
+    background-color: #00b8948c;
+    border: 1px solid #00b894;
+    border-radius: 9px;
+}
+
+.hed {
+	text-align: center;
+	font-size: 40px;
+}
+.fon{
+	font-family: 'Amiri', serif;
+    color: red;
+	font-size: 20px;
+}
+.f1n{
+    color: red;
+	font-size: 40px;
+}
+.main {
+	font-size: 30px;
+
+}
+.main1 {
+	border: 6px solid #fbf8f803;
+    width: 70%;
+    box-align: right;
+    margin: -478px 20px 30px 369px;
+	padding:  10px;
+	text-align:  right;
+	text-indent: 50px;
+}
+
+
+.foot{
+	height: 45px;
+	width: 100%;
+	background-color: #9ebce2;
+	color: white;
+	text-align: center
+}
+.copy{
+ font-size: 20px;
+	
+}
+.flo{
+	height: 10px;
+	width: 100%;
+	background-color: #9ebce2;
+	color: white;
+	text-align: center;
+	margin: -32px 2px -8px -461px;
+}
+.img {
+	height: 30px;
+    width: 30px;
+}
+.mor {
+	border: 2px solid green;
+
+}
+.ml {
+	text-align: center;
+}
+.box{
+	text-align: center;
+	color: black;
+	width: 25%;
+	margin: 10px 20px 30px 20px;  
+}
+.box1 {
+	text-align: center;
+	color: black;
+	width: 25%;
+	margin: -377.5px -13px 1px 402px;  
+}
+.box2 {
+	text-align: center;
+	color: black;
+	width: 25%;
+	margin: -377.5px -13px 1px 936px;  
+}
+.frs{
+		background-color: lightgreen;
+}
+.btn {
+	    font-family: 'Josefin Sans', sans-serif;
+    padding: 12px 30px;
+    border: 1px solid green;
+    background-color: #00b894;
+    border-radius: 4px;
+    width: 135px;
+    text-align: center;
+    height: 33px;
+    text-transform: uppercase;
+    font-size: 13px;
+    letter-spacing: 1px;
+    font-weight: 800;
+    color: #000;
+}
